@@ -16,5 +16,5 @@ https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL/tree/main
 https://arxiv.org/abs/2302.08453
 
 ## Output
-
+![Screenshot 2023-09-08 202503](https://github.com/camenduru/T2I-Adapter-SDXL-colab/assets/54370274/74229972-f1bf-46c7-9c2f-bc633daeaedd)
 ![266230530-d249f699-b6d5-461d-9fdf-f0d009f14f4d](https://github.com/camenduru/T2I-Adapter-SDXL-colab/assets/54370274/1a7a1684-21a0-44aa-8055-cdb92acdc1cd)
