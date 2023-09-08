@@ -12,7 +12,8 @@
 https://github.com/TencentARC/T2I-Adapter
 
 ## Paper
-
+https://arxiv.org/abs/2302.08453
 
 ## Output
 
+![266230530-d249f699-b6d5-461d-9fdf-f0d009f14f4d](https://github.com/camenduru/T2I-Adapter-SDXL-colab/assets/54370274/1a7a1684-21a0-44aa-8055-cdb92acdc1cd)
