@@ -10,6 +10,7 @@
 
 ## Main Repo
 https://github.com/TencentARC/T2I-Adapter
+https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL/tree/main
 
 ## Paper
 https://arxiv.org/abs/2302.08453
