@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/T2I-Adapter-SDXL-colab/blob/main/T2I_Adapter_SDXL_colab.ipynb) | T2I_Adapter_SDXL_colab
 
 ## Main Repo
-https://github.com/TencentARC/T2I-Adapter
-https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL/tree/main
+https://github.com/TencentARC/T2I-Adapter <br />
+https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2302.08453
